@@ -21,7 +21,7 @@ If you're interested in my projects or want to collaborate, feel free to reach o
 
 ## 🔗 My social links
 
-- 📺️ **Bilibili**: [Bilibili](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
+- 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
 
 ## My Github stats
 [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)
