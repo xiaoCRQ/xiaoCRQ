@@ -14,11 +14,7 @@ My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 - 📖 **Programming Languages**: Continue to delve deeper into C/C++ and Lua.
 - 🎨 **Game Design**: Study game design theories and understand player psychology.
 - 🛠️ **Tool Proficiency**: Master various development tools.
-
-## 🤝 Contact Me
-
-If you're interested in my projects or want to collaborate, feel free to reach out!
-
+- 
 ## 🔗 My social links
 
 - 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
