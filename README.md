@@ -2,7 +2,7 @@
 
 ## My Github stats
 
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apixiaoCRQ=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/apiapi?username=xiaoCRQ&show_icons=true&theme=tokyonight)](https://github.com/xiaoCRQ)
 
 ## **My social links**
 
