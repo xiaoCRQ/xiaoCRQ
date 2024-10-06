@@ -6,12 +6,8 @@ My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 
 - 👨‍💻 **Occupation**: I am a passionate learner of programming, aspiring to become an independent game developer.
 - 🌐 **Languages**: My repertoire includes but is not limited to C/C++, Lua, HTML, CSS...
-- 💻 **Editors**: My favorite editors are VSCode, Neovim, and Obsidian.
+- 💻 **Editors**: My favorite editors are Neovim, VSCode, and Obsidian.
 - 🖥️ **Operating Systems**: I primarily work on Arch Linux and Windows systems.
-
-## 🚀 Goals
-
-My goal is to keep learning, keep improving, and eventually create amazing games.
 
 ## 📚 Learning Plan
 
