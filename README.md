@@ -33,14 +33,10 @@ If you're interested in my projects or want to collaborate, feel free to reach o
 <table>
   <tr>
     <td>
-      
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ)
-      
     </td>
     <td>
-    
     [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)
-    
     </td>
   </tr>
 </table>
