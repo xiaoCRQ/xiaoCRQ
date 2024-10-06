@@ -1,7 +1,7 @@
 # Hi there 🥷
 
 ## My Github stats
-![![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/xiaoCRQ)
+[![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/xiaoCRQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ)](https://github.com/xiaoCRQ)
 ## **My social links**
 
