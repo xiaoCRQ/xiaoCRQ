@@ -2,7 +2,7 @@
 
 My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 
-## 🌟 About Me
+## 🥳 About Me
 
 - 👨‍💻 **Occupation**: I am a passionate learner of programming, aspiring to become an independent game developer.
 - 🌐 **Languages**: My repertoire includes but is not limited to C/C++, Lua, HTML, CSS...
@@ -19,7 +19,7 @@ My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 
 - 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
 
-## My Github stats
+## ✨ My Github stats
 
 | [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
