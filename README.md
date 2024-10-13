@@ -1,9 +1,8 @@
-| [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 # 👋 Hello There!
 
 My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
+| [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 🥳 About Me
 
