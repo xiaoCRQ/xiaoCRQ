@@ -40,8 +40,9 @@
             font-size: 20px;
         }
 			</style>
-
+			
       <div class="home_title" data-tauri-drag-region="true"><h2>Hey, I'm <bold><code>xiaoCRQ</code></bold>!</h2></div>
+
     </div>
 	</foreignObject>
 </svg>
