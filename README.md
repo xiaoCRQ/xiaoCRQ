@@ -1,4 +1,7 @@
-<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 100%; height: 100%;" />
+<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 100%; height: 80%;" />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 🥳 About Me
 
@@ -18,10 +21,7 @@
 ## 🔗 My social links
 
 - 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
+
 ## ✨ My Github stats
-
-| [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) 
