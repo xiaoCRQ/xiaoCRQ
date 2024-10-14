@@ -1,4 +1,4 @@
-<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 100%; height: 100%;" />
+<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 50%; height: 100%;" /><br><br><br><br><br>
 
 My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 
