@@ -11,7 +11,7 @@ My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
 
 ## 📚 Learning Plan
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:xiaoCRQ?theme=rule34">
 
 - 📖 **Programming Languages**: Continue to delve deeper into C/C++ and Lua.
 - 🎨 **Game Design**: Study game design theories and understand player psychology.
