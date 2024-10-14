@@ -1,4 +1,4 @@
-<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 100%; height: 80%;" />
+<img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/me.svg" align="left"  style="width: 75%; height: 80%;" />
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
