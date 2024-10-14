@@ -1,7 +1,5 @@
 <img src="https://github.com/xiaoCRQ/xiaoCRQ/blob/main/svg/hello.svg" align="left"  style="width: 100%; height: 100%;" />
 
-My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
-
 ## 🥳 About Me
 
 - 👨‍💻 **Occupation**: I am a passionate learner of programming, aspiring to become an independent game developer.
