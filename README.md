@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/xiaoCRQ/xiaoCRQ/main/svg/me.svg" align="left"  style="width: 100%; height: 100%;" />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</picture>
 
 ## 🥳 ![image](https://raw.githubusercontent.com/xiaoCRQ/xiaoCRQ/main/svg/aboutme.svg)
 
