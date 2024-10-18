@@ -1,23 +1,20 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 24 hours.
+name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    # every 24 hours
-    - cron: "0 */24 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
-
-  # On changes
+  
+  # run on every push on the master branch
   push:
     branches:
-      - master
+    - master
+    
+  
 
-# The sequence of runs in this workflow:
 jobs:
   generate:
     permissions: 
